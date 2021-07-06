@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @D-madhukar
 - 👀 I’m interested in Competitive programming & Web Development
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate Java & Javascript related projects
 - 📫 How to reach me 
 
 <!---
